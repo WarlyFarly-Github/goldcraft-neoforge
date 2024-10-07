@@ -3,6 +3,8 @@
 
 Also Available On:
 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gold-craft-forge-edition)
+[Modrinth](https://www.modrinth.com/mod/goldcraft-(neoforge-edition))
+
 
 
 GoldCraft Is a miscellaneous Mod made for Minecraft Forge. It contains many versions such as the variety update (1.2), the wild west update (1.1), and the Other Places Update (1.0).
